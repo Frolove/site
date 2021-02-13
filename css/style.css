@@ -1,0 +1,238 @@
+a {
+	color: #cfdbde;
+	text-decoration: none;
+	margin-left: 10px;
+}
+.header {
+	display: flex;
+	justify-self: space-between;
+	padding: 10px;
+	background: #8a3737;
+	font-family: Helvetica;
+	width: 1703px;
+	margin-left: 50px;
+}
+.header__logo {
+	color: #cfdbde;
+}
+.header__section {
+	display: flex;
+	align-items: center;
+}
+.header__logo {
+	padding: 10px 15px;
+	font-size: 25px;
+}
+.header__Button {
+	padding: 10px 15px;
+	font-size: 25px;
+}
+.header__Button:hover{
+	background-color: #3a3a3a;
+	border-radius: 3px;
+}
+body {
+	background-color: #3a3a3a;
+}
+.block__name00 {
+	display: inline-flex;
+	margin-top: 15px;
+	font-size: 25px;
+	font-family: Helvetica;	
+}
+.block__name01 {
+	color: 3a3a3a;
+	width: 1339px;
+	margin-left: 50px;
+	background-color: #c5c0ac;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+.block__name02 {
+	color: 3a3a3a;
+	width: 343px;
+	margin-left: 41px;
+	background-color: #c5c0ac;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+.block__ii {
+	display: inline-flex;
+}
+.block__icons {
+	height: 754px;
+	width: 1339px;
+	background-color: #687198;
+	margin-top: 15px;
+	margin-left: 50px;
+}
+.block__info {
+	height: 754px;
+	width: 343px;
+	background-color: #c6b886;
+	margin-top: -758px;
+	margin-left: 1430px;
+}
+#footer {
+	position: fixed;
+	left: 0; bottom: 0;
+	padding: 10px;
+	background: #ad9336;
+	color: #a53240;
+	width: 100%;
+	font-family: Helvetica;
+	text-align: center;
+}
+.icons__00 {
+	display: table-column;
+	position: fixed;
+	font-family: Helvetica;	
+	padding: 20px;
+	color: #80ca29;
+}
+
+.icons__01 {
+	display: table-column;
+	position: fixed;
+	font-family: Helvetica;
+	margin-left: 350px;
+	margin-top: -364px;
+	padding: 20px;
+	color: #3eb6de;
+}
+
+.icons__02 {
+	display: table-column;
+	position: fixed;
+	font-family: Helvetica;
+	margin-left: 201px;
+	margin-top: -702px;
+	color: #3eb6de;
+}
+
+.icons__03 {
+	display: table-column;
+	position: fixed;
+	font-family: Helvetica;
+	margin-left: 201px;
+	margin-top: -702px;
+	color: #3eb6de;
+}
+
+.icon__01 {
+
+}
+.icon__02 {
+
+}
+.icon__03 {
+
+}
+.icon__04 {
+	margin-top: 20px;
+}
+.icon__05 {
+
+}
+.icon__06 {
+
+}
+.icon__07 {
+
+}
+.icon__08 {
+
+}
+.icon__09 {
+
+}
+.icon__10 {
+
+}
+.icon__11 {
+
+}
+.icon__12 {
+
+}
+.icon__13 {
+
+}
+.icon__14 {
+
+}
+.icon__15 {
+
+}
+.icon__16 {
+
+}
+.icon__17 {
+
+}
+.icon__18 {
+
+}
+.icon__19 {
+
+}
+.icon__20 {
+
+}
+.icon__21 {
+
+}
+.icon__22 {
+
+}
+.icon__23 {
+
+}
+.icon__24 {
+
+}
+.icon__25 {
+
+}
+.icon__26 {
+
+}
+.icon__27 {
+
+}
+.icon__28 {
+
+}
+.icon__29 {
+
+}
+.icon__30 {
+
+}
+.icon__31 {
+
+}
+.icon__32 {
+
+}
+.icon__33 {
+
+}
+.icon__34 {
+
+}
+.icon__35 {
+
+}
+.nazvanie__icon {
+	text-align: center;
+	font-size: 25px;
+	color: #431010;
+}
+.info__poingram {
+	text-align: center;
+	font-size: 20px;
+	color: #1d6796;
+}
